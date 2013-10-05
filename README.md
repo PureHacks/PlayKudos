@@ -1,3 +1,5 @@
+The application requires Play 2.1.5 for Scala.
+
 The current configuration assumes a local instance of MySQL with login root/root and an empty database called kudos.
 
 Fetch the database DDL by running the application and browsing to
